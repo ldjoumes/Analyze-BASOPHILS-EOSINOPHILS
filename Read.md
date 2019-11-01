@@ -25,7 +25,7 @@ ggplot(IBS1, aes(x=BMI, y=Basophils)) +
   geom_point() +    
   geom_smooth(method=lm) 
 ```
-![BMI_Cortisol](../master/Images/CORTxBMI.png?sanitize=true)
+![](fig_output/Rplot01.png)
 ##
 ### Results of single regression, BMI x C-Reactive Protein (CRP)
 ```
@@ -41,7 +41,7 @@ Coefficients:
 
 ```
 
-![BMI_CRP](../master/Images/BMIxCRP.png?sanitize=true)
+![](fig_output/Rplot.png)
 ##
 ##
 ### Results of multiple regression, BMI x Serum Cortisol + C-Reactive Protein (CRP)
