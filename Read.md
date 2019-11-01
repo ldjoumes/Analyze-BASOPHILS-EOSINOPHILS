@@ -1,7 +1,20 @@
 ## AnalyzeBasophils-Eosiniphils
 ![doi](../master/Images/zenodo.3373938.svg?sanitize=true)
-### Single and multiple regressions, and scatterplots for clinical bloodwork and gene expression data.
-([AnalyzeBloodwork.R](../master/AnalyzeBloodwork.R)) will allow you to load a comma-delimited .csv with various datapoints, perform single and multiple regressions of Body Mass Index (BMI) vs. variables from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D and 3-D scatterplots for the results. 
+### Single regressions, and scatterplots for clinical bloodwork and gene expression data.
+([AnalyzeBloodwork.R](../master/AnalyzeBloodwork.R)) will allow you to load a comma-delimited .csv with various datapoints, perform single regression of Body Mass Index (BMI) vs. Basophils (CBC-D) results, and produce 2-D scatterplots for the results. 
+## Read data
+IBS1 <- read.csv("RobinsonEtAl_Sup1.csv", header = TRUE)
+head(IBS1)
+##  Single Regressions for BMI vs. Basophils
+##  Data was obtained from Robinson, et al. 2019 (doi: https://doi.org/10.1101/608208)
+##  https://statquest.org/2017/10/30/statquest-multiple-regression-in-r/
+##  http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/
+##  http://r-statistics.co/Linear-Regression.html
+##  Single Regressions for BMI vs. Eosinophils
+##  Data was obtained from Robinson, et al. 2019 (doi: https://doi.org/10.1101/608208)
+##  https://statquest.org/2017/10/30/statquest-multiple-regression-in-r/
+##  http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/
+##  http://r-statistics.co/Linear-Regression.html
 
 Data (RobinsonEtAl_Sup1.csv) was downloaded from: 
 
