@@ -17,8 +17,9 @@ Call:
 lm(formula = BMI ~ Basophils, data = IBS1)
 
 Coefficients:
-  (Intercept)  SerumCortisol  
-      31.9454        -0.5004  
+(Intercept)    Basophils  
+      27.22       -15.31  
+
 ```
 ```
 ggplot(IBS1, aes(x=BMI, y=Basophils)) +
@@ -27,17 +28,17 @@ ggplot(IBS1, aes(x=BMI, y=Basophils)) +
 ```
 ![](fig_output/Rplot01.png)
 ##
-### Results of single regression, BMI x C-Reactive Protein (CRP)
+### Results of single regression, BMI x Eosinophils
 ```
-> single.regression <- lm(BMI ~ CRP, data=IBS1)
+> single.regression <- lm(BMI ~ Eosinophils, data=IBS1)
 > print(single.regression)
 
 Call:
-lm(formula = BMI ~ SerumCortisol + CRP, data = IBS1)
+lm(formula = BMI ~ Eosinophils, data = IBS1)
 
 Coefficients:
-  (Intercept)  SerumCortisol            CRP  
-      30.7936        -0.5231         0.6042  
+(Intercept)  Eosinophils  
+     26.362        3.091  
 
 ```
 
