@@ -32,7 +32,7 @@ summary(single.regression)
 single.regression <- lm(BMI ~ IgA, data=IBS1)
 summary(single.regression)
 
-single.regression <- lm(BMI ~ Lymphocytes, data=IBS1)
+single.regression <- lm(BMI ~ Eosinophils, data=IBS1)
 summary(single.regression)
 single.regression <- lm(BMI ~ Basophils, data=IBS1)
 print(single.regression)
