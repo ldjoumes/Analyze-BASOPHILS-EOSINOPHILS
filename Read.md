@@ -44,6 +44,9 @@ Coefficients:
 
 ![](fig_output/Rplot.png)
 
-## boxplot
+## Basophils boxplot
 ![](fig_output/Basophils_boxplot.png)
+
+## Eosinophils Boxplot
+![](fig_output/Eosinophils_boxplot.png)
 
