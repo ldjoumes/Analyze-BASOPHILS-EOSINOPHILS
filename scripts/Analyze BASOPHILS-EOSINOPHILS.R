@@ -34,6 +34,66 @@ ggplot(df,aes(x=BMI, y=Eosinophils)) +
 geom_point() +
 geom_smooth(method=lm)
 
+sink("data_output/basophils_regression.txt")
+print(single.regression)
+sink() 
+
+ggplot(IBS1, aes(x=BMI, y=Basophils)) +
+  geom_point()+
+  geom_smooth(method= lm)
+
+
+png("fig_output/Basophils_scatterplot.png")
+Basophils_scatterplot <- ggplot(IBS1, aes(x = BMI, y = Basophils)) +
+  geom_point() +    
+  geom_smooth(method = lm) 
+
+print(Basophils_scatterplot)
+dev.off()
+
+boxplot(Basophils ~ IBS.subtype, data = IBS1, main="Basophils by IBS1 subtype", 
+        xlab = "IBS1.subtype", ylab = "Basophils"
+)
+
+png("fig_output/Basophils_boxplot.png")
+Basophils_boxplot <- boxplot(Basophils ~ IBS.subtype, data = IBS1, main="Basophils by IBS1 subtype", 
+                       xlab = "IBS1.subtype", ylab = "Basophils"
+)
+print(Basophils_boxplot)
+dev.off()
+
+
+sink("data_output/Eosinophils_regression.txt")
+print(single.regression)
+sink() 
+
+ggplot(IBS1, aes(x=BMI, y=Eosinophils)) +
+  geom_point()+
+  geom_smooth(method= lm)
+
+
+
+png("fig_output/Eosinophlis_scatterplot.png")
+Eosinophils_scatterplot <- ggplot(IBS1, aes(x = BMI, y = Eosinophils)) +
+  geom_point() +    
+  geom_smooth(method = lm) 
+
+print(Basophils_scatterplot)
+dev.off()
+
+boxplot(Eosinophils ~ IBS.subtype, data = IBS1, main="Eosinophils by IBS1 subtype", 
+        xlab = "IBS1.subtype", ylab = "Eosinophils"
+)
+
+png("fig_output/Eosinophils_boxplot.png")
+Eosinophils_boxplot <- boxplot(Eosinophils ~ IBS.subtype, data = IBS1, main="Eosinophils by IBS1 subtype", 
+                             xlab = "IBS1.subtype", ylab = "Eosinophils"
+)
+print(Basophils_boxplot)
+dev.off()
+
+
+
 
   
 
