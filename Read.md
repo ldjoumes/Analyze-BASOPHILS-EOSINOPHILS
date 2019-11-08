@@ -41,7 +41,9 @@ Coefficients:
      26.362        3.091  
 
 ```
-
+ggplot(IBS1, aes(x=BMI, y=Eosinophils)) +
+  geom_point() +    
+  geom_smooth(method=lm) 
 ![](fig_output/Rplot.png)
 
 ## Basophils boxplot
