@@ -16,16 +16,13 @@ write.csv(IBS1, "data_output/data.csv")
 single.regression <- lm(BMI ~ Basophils, data=IBS1)
 print(single.regression)
 df<-na.omit(data)
-ggplot(df, aes(x=BMI, y=Basophils)) +
-  geom_point() +    
-  geom_smooth(method=lm)
-sink("data_output/basophils_regression.txt")
-print(single.regression)
-sink() 
-
 ggplot(IBS1, aes(x=BMI, y=Basophils)) +
   geom_point()+
   geom_smooth(method= lm)
+
+sink("data_output/basophils_regression.txt")
+print(single.regression)
+sink() 
 
 png("fig_output/Basophils_scatterplot.png")
 Basophils_scatterplot <- ggplot(IBS1, aes(x = BMI, y = Basophils)) +
