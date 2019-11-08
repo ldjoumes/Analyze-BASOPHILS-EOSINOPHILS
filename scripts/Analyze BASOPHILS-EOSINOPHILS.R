@@ -54,17 +54,13 @@ dev.off()
 single.regression <- lm(BMI ~ Eosinophils, data=IBS1)
 print(single.regression)
 df<-na.omit(data)
-ggplot(df,aes(x=BMI, y=Eosinophils)) +
-geom_point() +
-geom_smooth(method=lm)
+ggplot(IBS1, aes(x=BMI, y=Eosinophils)) +
+  geom_point()+
+  geom_smooth(method= lm)
 
 sink("data_output/Eosinophils_regression.txt")
 print(single.regression)
 sink() 
-
-ggplot(IBS1, aes(x=BMI, y=Eosinophils)) +
-  geom_point()+
-  geom_smooth(method= lm)
 
 png("fig_output/Eosinophlis_scatterplot.png")
 Eosinophils_scatterplot <- ggplot(IBS1, aes(x = BMI, y = Eosinophils)) +
