@@ -20,11 +20,12 @@ Coefficients:
 (Intercept)    Basophils  
       27.22       -15.31  
 
-```
-```
 ggplot(IBS1, aes(x=BMI, y=Basophils)) +
   geom_point() +    
   geom_smooth(method=lm) 
+```
+```
+
 ```
 ![](fig_output/Rplot01.png)
 ##
