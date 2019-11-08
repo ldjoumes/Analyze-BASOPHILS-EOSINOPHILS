@@ -13,6 +13,7 @@ write.csv(IBS1, "data_output/data.csv")
 ##  http://r-statistics.co/Linear-Regression.html
 
 #BMI, Basophils
+## Run single regression BMI vs Basophils, export scatterplot 
 single.regression <- lm(BMI ~ Basophils, data=IBS1)
 print(single.regression)
 df<-na.omit(data)
