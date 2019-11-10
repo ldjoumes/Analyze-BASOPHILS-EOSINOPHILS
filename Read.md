@@ -42,7 +42,8 @@ Coefficients:
      26.362        3.091  
 
 ```
-
+##  Results of Eosinophils scatterplot
+![](fig_output/Eosinophils_scatterplot.png)
 ![](fig_output/Rplot.png)
 
 ## Results of Basophils boxplot
@@ -52,5 +53,4 @@ Coefficients:
 ![](fig_output/Eosinophils_boxplot.png)
 ## Results of Basophils scatterplot
 ![](fig_output/Basophils_scatterplot.png)
-##  Results of Eosinophils scatterplot
-![](fig_output/Eosinophils_scatterplot.png)
+
