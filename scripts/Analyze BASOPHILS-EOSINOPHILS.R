@@ -9,7 +9,7 @@ library(ggplot2)
 ## Read data
 IBS1 <- read.csv("RobinsonEtAl_Sup1.csv", header = TRUE)
 head(IBS1)
-write.csv(IBS1,"data_output/output")
+write.csv(IBS1,"data_output/output.csv")
 
 ##  Single Regressions for BMI vs. Basophils
 ##  Data was obtained from Robinson, et al. 2019 (doi: https://doi.org/10.1101/608208)
