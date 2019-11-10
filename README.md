@@ -33,7 +33,7 @@ Coefficients:
 ggplot(IBS1, aes(x=BMI, y=Basophils)) +
   geom_point() +    
   geom_smooth(method=lm) 
-```
+  ```
 ![scatterplot BMI vs Basophils](fig_output/Basophils_scatterplot.png)
 
 ##
