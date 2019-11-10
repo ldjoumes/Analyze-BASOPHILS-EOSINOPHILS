@@ -1,17 +1,17 @@
-# Analyze-BASOPHILS-EOSINOPHILS Overview by Stephane Djoumessi
+# Analyze-BASOPHILS-EOSINOPHILS: Overview by Stephane Djoumessi
 Linear regression, One way-ANOVA, scatterplots, and Boxpplots for Basophils-Eosinophils parameter from the gene expression data.
 
 ## AnalyzeBasophils-Eosiniphils Significance and references
 
 ## <p align="center"> * Basophils* </p>
->## Basophils appear in many specific kinds of inflammatory reactions, particularly those that cause allergic symptoms. Basophils contain anticoagulant heparin, which prevents blood from clotting too quickly. They also contain the vasodilator histamine, which promotes blood flow to tissues. its normal rages is 0.002-0.02 μg/dL.
+>## Basophils appear in many specific kinds of inflammatory reactions, particularly those that cause allergic symptoms. Basophils contain anticoagulant heparin, which prevents blood from clotting too quickly. its normal range is 0.002-0.02 μg/dL.
 
  ## <p align="center"> * Eosinophils* </p>
- >## Eosinophils are a type of disease-fighting white blood cell. This condition most often indicates a parasitic infection, an allergic reaction or cancer. You can have high levels of eosinophils in your blood (blood eosinophilia) or in tissues at the site of an infection or inflammation (tissue eosinophilia). Its normal range is 0.004-0.04 μg/dL.
+ >## Eosinophils are a type of disease-fighting white blood cell. Their presence often indicates a parasitic infection, an allergic reaction, or cancer. You can have high levels of eosinophils in your blood (blood eosinophilia) or in tissues at the site of an infection or inflammation (tissue eosinophilia). Its normal range is 0.004-0.04 μg/dL.
 
 ##data was obtained from:
 ##https://idph.iowa.gov/Portals/1/Files/IMMTB/Complete%20Blood%20Count.pdf
-https://doi.org/10.1101/608208.
+##https://doi.org/10.1101/608208.
 Data (RobinsonEtAl_Sup1.csv) was downloaded from: 
 Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
 
@@ -52,7 +52,7 @@ Coefficients:
 ```
 ![ Scatterplot BMI vs Eosinophils](fig_output/Eosinophils_scatterplot.png)
 
- 
+
 ## Results of Basophils one Way ANOVA: Data and Boxplot
 Basophils.aov <- aov(Basophils ~ IBS.subtype, data=IBS1)
 summary(Basophils.aov)
