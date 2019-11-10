@@ -1,4 +1,4 @@
-# Analyze-BASOPHILS-EOSINOPHILS Overview
+# Analyze-BASOPHILS-EOSINOPHILS Overview by Stephane Djoumessi
 Linear regression, One way-ANOVA, scatterplots, and Boxpplots for Basophils-Eosinophils parameter from the gene expression data.
 
 ## AnalyzeBasophils-Eosiniphils Significance and references
