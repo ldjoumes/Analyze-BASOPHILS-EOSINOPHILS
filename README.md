@@ -61,12 +61,12 @@ Coefficients:
 > print(Basophils.aov)
 > sink()
 ```
-```
+
 > Df  Sum Sq   Mean Sq F value Pr(>F)
 I> BS.subtype   1 0.00007 6.993e-05   0.325   0.57
 > Residuals   108 0.02322 2.150e-04  
 ![Boxplot BMIvs Basophils](fig_output/Basophils_boxplot.png)
-```
+
 
 ## Results of Eosinophils one way ANOVA: data and Boxplot
 ```
