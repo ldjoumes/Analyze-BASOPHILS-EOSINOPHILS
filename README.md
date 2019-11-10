@@ -54,26 +54,32 @@ Coefficients:
 
 
 ## Results of Basophils one Way ANOVA: Data and Boxplot
+```
 > Basophils.aov <- aov(Basophils ~ IBS.subtype, data=IBS1)
 > summary(Basophils.aov)
 > sink('data_output/Basophils.txt', append = TRUE)
 > print(Basophils.aov)
 > sink()
-
+```
+```
 > Df  Sum Sq   Mean Sq F value Pr(>F)
 I> BS.subtype   1 0.00007 6.993e-05   0.325   0.57
 > Residuals   108 0.02322 2.150e-04  
 ![Boxplot BMIvs Basophils](fig_output/Basophils_boxplot.png)
+```
 
 ## Results of Eosinophils one way ANOVA: data and Boxplot
+```
 > Eosinophils.aov <- aov(Eosinophils ~ IBS.subtype, data=IBS1)
 > summary(Eosinophils.aov)
 > sink('data_output/Eosinophils.txt', append = TRUE)
 > print(Eosinophils.aov)
 > sink()
-
+```
+```
 > Df Sum Sq  Mean Sq F value Pr(>F)
 > IBS.subtype   1  0.000 0.000006       0  0.982
 > Residuals   108  1.343 0.012431
+```
 ![Boxplot BMI vs Eosinophils](fig_output/Eosinophils_boxplot.png)
 
