@@ -55,6 +55,5 @@ Coefficients:
 
 ## Results of Basophils scatterplot
 ![](fig_output/Basophils_scatterplot.png)
-
 ## Results of Eosinophils scatterplot
 ![](fig_output/Eosinophlis_scatterplot.png)
