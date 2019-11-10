@@ -65,7 +65,7 @@ IBS.subtype   1 0.00007 6.993e-05   0.325   0.57
 Residuals   108 0.02322 2.150e-04  
 ![Boxplot BMIvs Basophils](fig_output/Basophils_boxplot.png)
 
-## Results of Eosinophils one way ANOVA: dta and Boxplot
+## Results of Eosinophils one way ANOVA: data and Boxplot
 Eosinophils.aov <- aov(Eosinophils ~ IBS.subtype, data=IBS1)
 summary(Eosinophils.aov)
 sink('data_output/Eosinophils.txt', append = TRUE)
