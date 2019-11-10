@@ -11,12 +11,6 @@ IBS1 <- read.csv("RobinsonEtAl_Sup1.csv", header = TRUE)
 head(IBS1)
 write.csv(IBS1,"data_output/output.csv")
 
-##  Single Regressions for BMI vs. Basophils
-##  Data was obtained from Robinson, et al. 2019 (doi: https://doi.org/10.1101/608208)
-##  https://statquest.org/2017/10/30/statquest-multiple-regression-in-r/
-##  http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/
-##  http://r-statistics.co/Linear-
-
 ## Assign "High", "Normal", or "Low" absed on clinical normal ranges of each variable: 
 ##https://idph.iowa.gov/Portals/1/Files/IMMTB/Complete%20Blood%20Count.pdf
 
@@ -31,6 +25,12 @@ IBS1$Eosinophils_results <-"NA"
 IBS1$Eosinophils_result[IBS1$Eosinophils > 0.04] <- "HIGH"
 IBS1$Eosinophils_result[IBS1$Eosinophils <= 0.04 & IBS1$Eosinophils >= 0.004] <- "NORMAL"
 IBS1$Eosinophils_result[IBS1$Eosinophils < 0.004] <- "LOW"
+
+##  Single Regressions for BMI vs. Basophils, export sactterplot and boxplot 
+##  Data was obtained from Robinson, et al. 2019 (doi: https://doi.org/10.1101/608208)
+##  https://statquest.org/2017/10/30/statquest-multiple-regression-in-r/
+##  http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/
+##  http://r-statistics.co/Linear-
 
 ## Run single regression BMI vs Basophils, Graphical analysis with ggplot 
 single.regression <- lm(BMI ~ Basophils, data=IBS1)
