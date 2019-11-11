@@ -1,15 +1,15 @@
 # Analyze-BASOPHILS-EOSINOPHILS: Overview by Stephane Djoumessi
 Linear regression, One way-ANOVA, scatterplots, and Boxpplots for Basophils-Eosinophils parameter from the gene expression data.
 
-## AnalyzeBasophils-Eosiniphils Significance and references
+## AnalyzeBasophils-Eosiniphils: Significance and References
 
-## <p align="center"> * Basophils* </p>
+## <p align="center"> *Basophils* </p>
 >## Basophils appear in many specific kinds of inflammatory reactions, particularly those that cause allergic symptoms. Basophils contain anticoagulant heparin, which prevents blood from clotting too quickly. its normal range is 0.002-0.02 μg/dL.
 
  ## <p align="center"> * Eosinophils* </p>
  >## Eosinophils are a type of disease-fighting white blood cell. Their presence often indicates a parasitic infection, an allergic reaction, or cancer. You can have high levels of eosinophils in your blood (blood eosinophilia) or in tissues at the site of an infection or inflammation (tissue eosinophilia). Its normal range is 0.004-0.04 μg/dL.
 
-##data was obtained from:
+## References:
 ##https://idph.iowa.gov/Portals/1/Files/IMMTB/Complete%20Blood%20Count.pdf
 ##https://doi.org/10.1101/608208.
 Data (RobinsonEtAl_Sup1.csv) was downloaded from: 
@@ -50,7 +50,7 @@ Coefficients:
      26.362        3.091  
 
 ```
-![ Scatterplot BMI vs Eosinophils](fig_output/Eosinophils_scatterplot.png)
+![Scatterplot BMI vs Eosinophils](fig_output/Eosinophils_scatterplot.png)
 
 
 ## Results of Basophils one Way ANOVA: Data and Boxplot
@@ -64,7 +64,7 @@ Coefficients:
 ```
 >               Df  Sum Sq   Mean Sq F value Pr(>F)
 > IBS.subtype   1 0.00007 6.993e-05   0.325   0.57
-> Residuals   108 0.02322 2.150e-04  
+> Residuals     108 0.02322 2.150e-04  
 ```
 ![Boxplot BMIvs Basophils](fig_output/Basophils_boxplot.png)
 
