@@ -1,6 +1,6 @@
 ## BTEC 330 R Project
 ## By Stephane Djoumessi
-
+## set the woring directory before running the code. The directory is Analyze-BASOPHILS-EOSINOPHILS-master.
 
 ## Install necessary packages
 install.packages("ggplot2")
