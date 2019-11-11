@@ -26,7 +26,7 @@ IBS1$Eosinophils_result[IBS1$Eosinophils > 0.04] <- "HIGH"
 IBS1$Eosinophils_result[IBS1$Eosinophils <= 0.04 & IBS1$Eosinophils >= 0.004] <- "NORMAL"
 IBS1$Eosinophils_result[IBS1$Eosinophils < 0.004] <- "LOW"
 
-##  Single Regressions for BMI vs. Basophils, export sactterplot and boxplot 
+##  Single Regressions for BMI vs. parameter, export scatterplot and boxplot  of the relatinoship between 2 variables.
 ##  Data was obtained from Robinson, et al. 2019 (doi: https://doi.org/10.1101/608208)
 ##  https://statquest.org/2017/10/30/statquest-multiple-regression-in-r/
 ##  http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/
@@ -88,14 +88,14 @@ boxplot(Eosinophils ~ IBS.subtype, data = IBS1, main="Eosinophils by IBS1 subtyp
 print("Eosinophils_boxplot")
 dev.off()
 
-## ANOVA: IBS-subtype vs Basophils results into fig_output folder
+## ANOVA tests the level of variability and significance: IBS-subtype vs Basophils results into fig_output folder
 Basophils.aov <- aov(Basophils ~ IBS.subtype, data=IBS1)
 summary(Basophils.aov)
 sink('data_output/Basophils.txt', append = TRUE)
 print(Basophils.aov)
 sink()
 
-## ANOVA: IBS-subtype vs Eosinophils results into fig_output folder
+## ANOVA tests the level of variability and significance: IBS-subtype vs Eosinophils results into fig_output folder
 Eosinophils.aov <- aov(Eosinophils ~ IBS.subtype, data=IBS1)
 summary(Eosinophils.aov)
 sink('data_output/Eosinophils.txt', append = TRUE)
