@@ -6,7 +6,7 @@
 install.packages("ggplot2")
 library(ggplot2)
 
-## Read data
+## Read data, refers the enire robinsonEtAl_sup1.csv file as IBS1
 IBS1 <- read.csv("RobinsonEtAl_Sup1.csv", header = TRUE)
 head(IBS1)
 write.csv(IBS1,"data_output/output.csv")
