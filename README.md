@@ -1,10 +1,11 @@
 #  Analyze-BASOPHILS-EOSINOPHILS: by Stephane Djoumessi
+#  Abstract
 (Analyze-Basophils-Eosinophils.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. Basophils and Body Mass Index (BMI) vs. Eosinophils from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D scatterplots, and boxplots for the results.
 
  #  Section 1: Introduction to Basophils
 Basophils appear in many specific kinds of inflammatory reactions, particularly those that cause allergic symptoms. Basophils contain anticoagulant heparin, which prevents blood from clotting too quickly. its normal range is [0.002-0.02 μg/dL.]
 
-#  Section 2: Introduction to EOsinophils
+#  Section 2: Introduction to Eosinophils
  Eosinophils are a type of disease-fighting white blood cell. Their presence often indicates a parasitic infection, an allergic reaction, or cancer. You can have high levels of eosinophils in your blood (blood eosinophilia) or in tissues at the site of an infection or inflammation (tissue eosinophilia). Its normal range is [0.004-0.04 μg/dL.]
 #  References
 Data (RobinsonEtAl_Sup1.csv) was downloaded from: 
