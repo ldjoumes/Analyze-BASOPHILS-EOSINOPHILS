@@ -3,9 +3,9 @@
    
  ## OVERVIEW
 
-   (Analyze-Basophils-Eosinophils.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. Basophils and Body Mass Index (BMI) vs. Eosinophils from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D scatterplots, and boxplots for the results.
+ <p style="text-indent: 40px"> (Analyze-Basophils-Eosinophils.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. Basophils and Body Mass Index (BMI) vs. Eosinophils from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D scatterplots, and boxplots for the results.
  
-   Data (RobinsonEtAl_Sup1.csv) was downloaded from: 
+<p style="text-indent: 40px"> Data (RobinsonEtAl_Sup1.csv) was downloaded from: 
 Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208. 
       Normal ranges were obtained from: https://idph.iowa.gov/Portals/1/Files/IMMTB/Complete%20Blood%20Count.pdf
 
@@ -18,7 +18,7 @@ Robinson, JM. et al. 2019. Complete blood count with differential: An effective 
      Eosinophils are a type of disease-fighting white blood cell. Their presence often indicates a parasitic infection, an allergic reaction, or cancer. You can have high levels of eosinophils in your blood (blood eosinophilia) or in tissues at the site of an infection or inflammation (tissue eosinophilia). Its normal range is [0.004-0.04 μg/dL.]
 
    ##
-### Results of single regression, BMI x Basophils
+### RESULTS OF SINGLE REGRESSION, BMI x BASOPHILS 
 ```
 > single.regression <- lm(BMI ~ Basophils, data=IBS1)
 > print(single.regression)
@@ -39,23 +39,7 @@ ggplot(IBS1, aes(x=BMI, y=Basophils)) +
 ![scatterplot BMI vs Basophils](fig_output/Basophils_scatterplot.png)
 
 ##
-### Results of single regression, BMI x Eosinophils
-```
-> single.regression <- lm(BMI ~ Eosinophils, data=IBS1)
-> print(single.regression)
-
-Call:
-lm(formula = BMI ~ Eosinophils, data = IBS1)
-
-Coefficients:
-(Intercept)  Eosinophils  
-     26.362        3.091  
-
-```
-![Scatterplot BMI vs Eosinophils](fig_output/Eosinophils_scatterplot.png)
-
-
-## Results of Basophils one Way ANOVA: Data and Boxplot
+### RESULTS OF BASOPHILS ONE WAY ANOVA: DATA AND BOXPLOT
 ```
 > Basophils.aov <- aov(Basophils ~ IBS.subtype, data=IBS1)
 > summary(Basophils.aov)
@@ -69,9 +53,24 @@ Coefficients:
 > Residuals     108 0.02322 2.150e-04  
 ```
 ![Boxplot BMIvs Basophils](fig_output/Basophils_boxplot.png)
+##
+### RESULTS OF SINGLE REGRESSION, BMI x EOSINOPHILS
+```
+> single.regression <- lm(BMI ~ Eosinophils, data=IBS1)
+> print(single.regression)
 
+Call:
+lm(formula = BMI ~ Eosinophils, data = IBS1)
 
-## Results of Eosinophils one way ANOVA: data and Boxplot
+Coefficients:
+(Intercept)  Eosinophils  
+     26.362        3.091  
+
+```
+![Scatterplot BMI vs Eosinophils](fig_output/Eosinophils_scatterplot.png)
+##
+
+### RESULTS OF EOSINOPHILS ONE WAY ANOVA: DATA AND BOXPLOT
 ```
 > Eosinophils.aov <- aov(Eosinophils ~ IBS.subtype, data=IBS1)
 > summary(Eosinophils.aov)
