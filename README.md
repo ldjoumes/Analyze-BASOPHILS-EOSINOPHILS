@@ -1,4 +1,5 @@
-#  Analyze-BASOPHILS-EOSINOPHILS: by Stephane Djoumessi
+#  Analyze-BASOPHILS-EOSINOPHILS
+*[overview] 
 
 (Analyze-Basophils-Eosinophils.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. Basophils and Body Mass Index (BMI) vs. Eosinophils from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D scatterplots, and boxplots for the results.
 
