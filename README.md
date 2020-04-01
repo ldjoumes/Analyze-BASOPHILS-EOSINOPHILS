@@ -1,7 +1,7 @@
 #  Analyze-BASOPHILS-EOSINOPHILS
    ### OVERVIEW
 
-   (Analyze-Basophils-Eosinophils.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. Basophils and Body Mass Index (BMI) vs. Eosinophils from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D scatterplots, and boxplots for the results.
+ (Analyze-Basophils-Eosinophils.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. Basophils and Body Mass Index (BMI) vs. Eosinophils from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D scatterplots, and boxplots for the results.
 
  ### Introduction to Basophils
    Basophils appear in many specific kinds of inflammatory reactions, particularly those that cause allergic symptoms. Basophils contain anticoagulant heparin, which prevents blood from clotting too quickly. its normal range is [0.002-0.02 μg/dL.]
@@ -14,7 +14,7 @@ Robinson, JM. et al. 2019. Complete blood count with differential: An effective 
       Normal ranges were obtained from: https://idph.iowa.gov/Portals/1/Files/IMMTB/Complete%20Blood%20Count.pdf
 
 
-   ###
+   ##
 ### Results of single regression, BMI x Basophils
 ```
 > single.regression <- lm(BMI ~ Basophils, data=IBS1)
