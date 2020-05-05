@@ -1,0 +1,2500 @@
+$A2M
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1853                      -1329  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     8368                      29122  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    69443                    -122502  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    10104                      22378  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    48305                      19444  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   256665                    -323752  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   328829                      57351  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   797927                     552058  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    272.9                     4672.0  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   4465.4                     -671.7  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   652713                     -66739  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    86.91                    8917.79  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     4793                     -11855  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     6302                      20833  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    11501                     -30478  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   171069                    -573475  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    87970                     410176  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    92081                    -135446  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    32916                     -29269  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   113672                    -136255  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    544.4                     2643.7  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1759                       5061  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    800.8                     1460.5  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   1211.6                      -51.7  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   509.26                      94.25  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   152572                     213006  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   109622                     297777  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     4706                      22246  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    22301                    -122016  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   340036                    1463982  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    29169                    -115460  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    32443                      88280  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    34633                     128189  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     3549                       5746  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   1898.5                     -110.9  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2043                      -2030  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   111913                    -337631  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1572                       9682  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    70508                    -138173  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     3180                      -6540  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    60096                     -33657  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                  18386.9                     -229.4  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    20703                      72287  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   343129                    -627716  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   116909                    -411493  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   170728                     292563  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    22422                      29607  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    53733                    -163301  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   131981                    -459844  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   779887                     938343  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   185366                     192958  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   244308                    -874197  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    67284                     -16936  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    47342                     231396  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   173025                     772119  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     3449                      -4546  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    54508                      67992  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    992.1                     8240.0  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    10897                      19671  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    573.3                     2740.8  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   595315                    2854985  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    69611                     -68156  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     3037                      -4114  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    172.5                     2226.9  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   176278                     517655  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   147268                    2221158  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                  1213030                    -648634  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    18228                    -121857  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   2816.8                     -129.8  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    48579                    -214713  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    90074                     236147  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    26666                      73706  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   118327                      -6998  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     6043                      39499  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    45639                     -32900  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   211480                     200735  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   115478                    -124364  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    74004                     -50251  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   914030                    1909413  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    46615                     -85233  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   101004                    -294102  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   271135                    -104558  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     5005                       1836  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     8698                      82172  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    34926                     -77554  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   382275                    -709763  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    63336                     -88646  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   513119                    2701144  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     9755                     -41131  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   250104                    -424670  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     5810                     -14173  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    18053                     190160  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     4118                      -2166  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   282939                     -84634  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2658                      -8977  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   101411                     100924  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    21945                     167735  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                  1239628                    2464275  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    67829                    -128902  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1481                       2251  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   256292                    -852419  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    11248                     -27238  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    39783                       -215  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   442790                   -2077935  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    81203                    -480950  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    53715                    -125186  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2967                       5047  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    91902                     134037  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    79138                      23157  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    36471                     172785  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    158.4                     2898.9  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    49090                       2393  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    53643                     -53424  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     5586                     -23573  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1516                       3783  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    10463                     -27994  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                      677                       3493  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     4091                      -8642  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    334.8                     3385.4  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   167004                     532421  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1348                       4222  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    25968                     131652  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    11132                     257688  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1017                       4203  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   1449.1                     -418.3  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    20864                      12508  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1587                       7648  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     8555                     -20316  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    950.7                     5955.6  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   122884                     717303  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   1768.2                      753.2  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     4477                     -10347  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     4215                      -8478  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                  1084054                   -3522166  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    39406                     133597  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   161259                     -56109  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2980                       7420  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    20212                     -10988  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    751.1                     5077.8  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    14052                     151935  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   128113                      53850  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    14397                     -54910  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    42537                     -53562  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   314693                     -17066  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    31135                     -77801  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2425                      -1890  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2613                      -2150  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    82132                    -243885  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   172298                    -220373  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    17397                       5182  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   705152                     358978  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    44751                     236162  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    66544                     126811  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    902.8                     4538.6  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     6446                     -14234  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    76939                     138920  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    19591                     -47713  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     5253                      -7670  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                  8683047                    9650195  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2292                       -370  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    55513                     -31299  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    91533                      83113  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   150261                     145718  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     9675                     -20753  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    223.5                     3417.8  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    42030                     -22684  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   187526                     341232  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    24870                     -27339  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     3788                       8465  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     3425                      95984  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   340574                    -100700  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     4233                      51919  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    11641                       2293  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    54707                      95851  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1531                       3517  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    89311                     354076  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    26850                     -31321  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    37648                     -68210  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     6642                      16178  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2456                      11343  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    41634                      -4007  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    96100                     -43020  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   574618                    1153071  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    23459                      31433  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    12923                     -40304  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   135747                     102685  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    22379                     124361  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   140810                      39052  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    84524                     -91089  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    25631                     270623  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1758                      -4157  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   1035.1                     -608.2  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2529                      -5865  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   214797                    -125193  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   592306                   -1836129  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2586                       7750  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   160550                     -21303  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   1402.7                      690.1  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     6479                      22467  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     9486                     -21832  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    92919                    -141842  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    92753                     154491  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    67607                    -279746  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     8620                     300782  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   299863                    2862737  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   139732                     -72530  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   119322                     246780  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    15827                     -26192  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    20990                      19253  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   120210                      43376  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     9962                     -54331  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                  6063840                   -5389561  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    28083                     -16022  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    60163                     101084  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     5127                     -17994  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     6599                     233704  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   146398                     165042  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     4235                      64977  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   111676                    -179214  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   429944                    -200340  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2202                      -3321  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    47972                     -16895  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    12581                     -17585  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   224393                   -1432033  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1957                       5769  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1336                       2894  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    60339                      -7001  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    92428                    -286539  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   898544                    -297004  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     3360                     -17079  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    87292                     625053  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   122322                     288500  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    91527                     335682  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    46374                       2793  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    11503                     182113  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                  10857.8                     -944.4  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     1994                       2337  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     2668                      -4058  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    60811                     -11735  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                     4054                       4008  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    51079                     -53163  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    81155                     -54378  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   188343                     528047  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    51762                     150100  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   836581                    -486068  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    19007                      45139  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    20036                      34593  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    23648                      -7032  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                   848944                    3514260  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Basophils..x10.9.cells.L., data = IBS)
+
+Coefficients:
+              (Intercept)  Basophils..x10.9.cells.L.  
+                    530.7                      273.5  
+
+
