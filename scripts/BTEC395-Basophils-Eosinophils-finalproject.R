@@ -174,11 +174,7 @@ PDCD1LG2_boxplot <- boxplot(PDCD1LG2 ~ IBSsubtype, data = IBS1, main="PDCD1LG2 b
 dev.off()
 
 
-## Recursive analysis for regression  - RNA Expression
-## https://stackoverflow.com/questions/42464767/how-to-run-lm-regression-for-every-column-in-r
-## https://stackoverflow.com/questions/44170937/performing-lm-and-segmented-on-multiple-columns-in-r
-## http://www.learnbymarketing.com/tutorials/explaining-the-lm-summary-in-r/
-## https://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html
+## Recursive analysis for regression  - RNA Expression ##
 
 View(IBS)
 ## Access only the columns with RNA Expression
@@ -200,15 +196,3 @@ summary(storage$AGO2)$coefficients[,4]
 sink('../data_output/Basophils_storage.txt', append = TRUE)
 print(storage)
 sink()
-
-
-
-
-
-
-
-
-
-
-
-
