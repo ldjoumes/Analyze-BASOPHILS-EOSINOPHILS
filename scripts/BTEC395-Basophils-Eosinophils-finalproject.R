@@ -3,7 +3,7 @@
 ## install.packages("ggplot2")
 library(ggplot2)
 
-## Set working directory 
+## Set working directory to setwd("C:/Users/loicd/Desktop/Analyze-BASOPHILS-EOSINOPHILS-master/scripts")
 
 ## Read data
 IBS1 <- read.table("../data/IBSGXData.txt", sep = "\t", header = TRUE)
@@ -29,8 +29,8 @@ ggplot(IBS1, aes(x=DROSHA, y=Basophils..x10.9.cells.L.)) +
                    
 
 ## Recursive analysis for regression  - RNA Expression ##
-
 View(IBS)
+
 ## Access only the columns with RNA Expression
 names(IBS1)[37:286]
 
@@ -54,7 +54,7 @@ sink()
 ## Access only the columns with RNA Expression (subsetting)
 names(IBS)[28:277]
 
-## Make a list of anova(lm()) results for bloodwork parameter
+## Make a list of anova(lm()) results for BasophilCount parameter
 storage <- list()
 
 for(i in names(IBS)[28:277]){
@@ -62,7 +62,6 @@ for(i in names(IBS)[28:277]){
 }
 
 ## Extract the p-values into a new list
-## https://stackoverflow.com/questions/3366506/extract-p-value-from-aov
 pVals <- list()
 
 for(i in names(storage)){
@@ -85,7 +84,7 @@ install.packages("ggplot2")
 library(ggplot2)
 # library(ggrepel)
 
-## output the result of the volcanoplot into out_put data folder
+## output the result of the volcanoplot into fig_output data folder
 png("../fig_output/BasophilCountplot.png")
 BasophilCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(FC)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
   geom_point(aes(color = Sig)) +
