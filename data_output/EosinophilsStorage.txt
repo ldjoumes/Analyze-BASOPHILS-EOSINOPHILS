@@ -1,0 +1,7500 @@
+$A2M
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1398                         2845  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9538                        -2584  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      66934                        -5493  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9966                         5052  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      49219                        -2631  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     255985                       -54911  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     328840                        10474  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     804729                        55332  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     385.39                        95.18  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     4476.3                       -197.9  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     671510                      -139890  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      445.8                       -796.5  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     4399.3                        494.9  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5790                         7306  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11427                        -5105  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     163303                       -52729  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     104324                       -35610  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      88663                        -1700  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      32241                         -799  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     117774                       -52902  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      657.8                       -284.0  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1548                         2363  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      892.9                       -356.6  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1200.04                        68.92  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      587.1                       -511.2  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     159403                        -7210  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     113194                        30503  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       4702                         4118  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    19107.6                       -756.5  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     381018                        -9048  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      29577                       -23995  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      34335                         3388  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      39243                        -7726  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3511                         1320  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1613                         1916  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1752                         1601  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     107286                       -30673  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1628                         1396  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      70981                       -28618  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3035                         -216  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61757                       -17469  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      17707                         4575  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24571                       -12971  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     336614                       -71188  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     111817                       -41094  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     184998                       -43084  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    23187.6                        247.1  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      52900                       -24376  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     120129                        -4089  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     836603                      -212518  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     187690                        19701  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     190909                       201792  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      58885                        53905  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      36036                       119308  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     204534                       -71943  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2522                         5459  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      58257                       -12951  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1407                        -1303  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11971                        -3674  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      596.9                        344.1  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     698857                      -178009  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      63558                        28559  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1206                        11679  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      278.6                       -311.0  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     135797                       370020  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     264555                      -387875  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1297262                      -691137  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      15956                        -6985  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2190                         4234  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      28191                        98940  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     106267                       -66516  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      26843                        12352  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     121356                       -21851  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5852                         8561  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      40198                        30891  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     217284                        -2490  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     109424                        18233  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      69131                        23846  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     960092                        38372  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      42763                        10482  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      98150                       -34699  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     269253                        -6450  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     5002.0                        360.9  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    10947.3                       -161.5  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      33603                        -5279  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     390295                      -184953  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61192                        -1741  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     509887                       518617  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       8862                        -1494  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     223122                       105101  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5204                         1504  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      23651                        -3039  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3265                         5398  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     267010                        92582  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2110                         2066  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     103760                         2615  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      23256                        21938  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1338060                      -215162  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      67390                       -20724  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1397.4                        977.9  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     243362                       -68958  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      10835                        -2202  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      38135                        11150  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     432077                      -309354  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      74113                       -40295  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      47225                        21041  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    3090.41                        89.62  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      98894                       -22824  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      82734                       -20160  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      40626                         3561  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      268.7                       -215.6  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      47566                        10786  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      52972                        -5267  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5202                        -1727  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1448                         1162  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      10513                        -5488  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      735.3                        246.3  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3120                         5002  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      457.8                       -212.5  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     186251                       -32777  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1212                         1701  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24900                        31459  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22319                       -28572  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      922.6                       1411.4  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1264                         1180  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      19892                         8897  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1596                         1343  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9094                        -7395  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1058.2                        365.4  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     137656                        31607  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1441                         2359  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     4132.8                        431.3  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3711                         1861  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1056638                      -461501  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      39304                        25258  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     162983                       -22020  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3025                         1059  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      18452                         9924  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      756.3                        898.7  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22773                       -31273  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     121890                        52151  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      14784                       -12722  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      37341                        25425  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     304201                        68093  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      27325                        11564  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2131                         1649  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1727                         5622  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      83949                       -57180  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     177457                       -75546  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      16249                         8749  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     764043                      -333823  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      52077                        -6311  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      70547                        -3858  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      929.2                        655.4  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       7028                        -6573  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      48401                       219301  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      19023                        -4918  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3910                         7709  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    8971059                      -180952  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1853                         2915  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      53418                         8465  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      98365                       -31100  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     159957                       -39034  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       8654                         3116  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      448.1                       -896.6  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    41457.5                       -280.9  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     197551                        -5316  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24528                        -2701  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3334                         4639  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       7632                       -10915  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     350380                       -85092  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       4355                         8724  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11263                         2990  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61191                       -26396  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1721.6                       -644.9  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     103476                       -31058  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      27279                        -8676  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      37685                       -12798  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     7112.1                       -218.6  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2939                        -1193  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      44315                       -18937  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      97302                       -16069  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     567250                       262039  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22909                         9513  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      12214                        -2601  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     146481                       -53994  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24907                         5706  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     144964                       -21027  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      85223                       -21489  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      33632                        -4557  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1572.0                        497.9  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1205                        -1265  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1892                         3243  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     207851                        24133  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     594982                      -355789  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2520                         1873  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     167305                       -49779  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1305.9                        784.2  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       6830                         1745  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       7218                        11385  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      87057                        13718  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      91968                        33736  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61252                        -8292  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      19001                       -15174  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     354444                       155819  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     141889                       -27982  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     139042                       -88510  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      15799                        -4625  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      21833                        -2180  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     128481                       -48177  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       8877                        -2625  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    5916210                        11287  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      26858                         5365  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61733                         7932  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       4473                         1130  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      10767                        14672  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     152556                       -11465  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       6807                        -5512  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     102809                        27245  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     402004                       152858  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     2164.9                       -358.4  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      51343                       -25995  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11177                         6300  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     202672                      -115847  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1896                         1481  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1325.3                        604.2  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    60279.7                       -883.9  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      90045                       -36507  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     799307                       619132  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     2780.8                        790.9  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      70332                       230079  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     130777                        -4355  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      99948                         4549  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      44989                         9919  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    16416.2                        131.5  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9864                         6576  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1701                         2418  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     2498.0                        410.1  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      62004                       -10254  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3403                         5156  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      50522                        -5995  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      82192                       -17040  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     200993                        11215  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      48297                        51127  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     880359                      -386596  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      14256                        40555  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      18668                        15647  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22136                         8971  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     949905                       -39262  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      567.7                       -200.9  
+
+
+$A2M
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1398                         2845  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9538                        -2584  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      66934                        -5493  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9966                         5052  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      49219                        -2631  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     255985                       -54911  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     328840                        10474  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     804729                        55332  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     385.39                        95.18  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     4476.3                       -197.9  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     671510                      -139890  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      445.8                       -796.5  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     4399.3                        494.9  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5790                         7306  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11427                        -5105  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     163303                       -52729  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     104324                       -35610  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      88663                        -1700  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      32241                         -799  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     117774                       -52902  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      657.8                       -284.0  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1548                         2363  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      892.9                       -356.6  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1200.04                        68.92  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      587.1                       -511.2  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     159403                        -7210  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     113194                        30503  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       4702                         4118  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    19107.6                       -756.5  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     381018                        -9048  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      29577                       -23995  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      34335                         3388  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      39243                        -7726  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3511                         1320  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1613                         1916  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1752                         1601  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     107286                       -30673  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1628                         1396  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      70981                       -28618  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3035                         -216  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61757                       -17469  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      17707                         4575  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24571                       -12971  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     336614                       -71188  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     111817                       -41094  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     184998                       -43084  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    23187.6                        247.1  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      52900                       -24376  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     120129                        -4089  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     836603                      -212518  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     187690                        19701  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     190909                       201792  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      58885                        53905  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      36036                       119308  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     204534                       -71943  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2522                         5459  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      58257                       -12951  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1407                        -1303  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11971                        -3674  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      596.9                        344.1  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     698857                      -178009  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      63558                        28559  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1206                        11679  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      278.6                       -311.0  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     135797                       370020  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     264555                      -387875  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1297262                      -691137  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      15956                        -6985  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2190                         4234  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      28191                        98940  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     106267                       -66516  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      26843                        12352  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     121356                       -21851  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5852                         8561  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      40198                        30891  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     217284                        -2490  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     109424                        18233  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      69131                        23846  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     960092                        38372  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      42763                        10482  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      98150                       -34699  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     269253                        -6450  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     5002.0                        360.9  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    10947.3                       -161.5  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      33603                        -5279  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     390295                      -184953  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61192                        -1741  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     509887                       518617  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       8862                        -1494  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     223122                       105101  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5204                         1504  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      23651                        -3039  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3265                         5398  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     267010                        92582  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2110                         2066  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     103760                         2615  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      23256                        21938  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1338060                      -215162  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      67390                       -20724  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1397.4                        977.9  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     243362                       -68958  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      10835                        -2202  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      38135                        11150  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     432077                      -309354  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      74113                       -40295  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      47225                        21041  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    3090.41                        89.62  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      98894                       -22824  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      82734                       -20160  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      40626                         3561  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      268.7                       -215.6  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      47566                        10786  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      52972                        -5267  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5202                        -1727  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1448                         1162  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      10513                        -5488  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      735.3                        246.3  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3120                         5002  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      457.8                       -212.5  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     186251                       -32777  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1212                         1701  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24900                        31459  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22319                       -28572  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      922.6                       1411.4  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1264                         1180  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      19892                         8897  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1596                         1343  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9094                        -7395  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1058.2                        365.4  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     137656                        31607  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1441                         2359  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     4132.8                        431.3  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3711                         1861  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1056638                      -461501  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      39304                        25258  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     162983                       -22020  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3025                         1059  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      18452                         9924  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      756.3                        898.7  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22773                       -31273  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     121890                        52151  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      14784                       -12722  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      37341                        25425  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     304201                        68093  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      27325                        11564  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2131                         1649  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1727                         5622  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      83949                       -57180  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     177457                       -75546  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      16249                         8749  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     764043                      -333823  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      52077                        -6311  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      70547                        -3858  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      929.2                        655.4  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       7028                        -6573  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      48401                       219301  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      19023                        -4918  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3910                         7709  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    8971059                      -180952  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1853                         2915  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      53418                         8465  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      98365                       -31100  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     159957                       -39034  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       8654                         3116  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      448.1                       -896.6  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    41457.5                       -280.9  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     197551                        -5316  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24528                        -2701  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3334                         4639  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       7632                       -10915  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     350380                       -85092  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       4355                         8724  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11263                         2990  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61191                       -26396  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1721.6                       -644.9  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     103476                       -31058  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      27279                        -8676  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      37685                       -12798  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     7112.1                       -218.6  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2939                        -1193  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      44315                       -18937  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      97302                       -16069  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     567250                       262039  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22909                         9513  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      12214                        -2601  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     146481                       -53994  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24907                         5706  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     144964                       -21027  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      85223                       -21489  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      33632                        -4557  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1572.0                        497.9  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1205                        -1265  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1892                         3243  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     207851                        24133  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     594982                      -355789  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2520                         1873  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     167305                       -49779  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1305.9                        784.2  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       6830                         1745  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       7218                        11385  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      87057                        13718  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      91968                        33736  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61252                        -8292  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      19001                       -15174  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     354444                       155819  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     141889                       -27982  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     139042                       -88510  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      15799                        -4625  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      21833                        -2180  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     128481                       -48177  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       8877                        -2625  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    5916210                        11287  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      26858                         5365  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61733                         7932  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       4473                         1130  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      10767                        14672  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     152556                       -11465  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       6807                        -5512  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     102809                        27245  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     402004                       152858  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     2164.9                       -358.4  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      51343                       -25995  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11177                         6300  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     202672                      -115847  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1896                         1481  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1325.3                        604.2  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    60279.7                       -883.9  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      90045                       -36507  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     799307                       619132  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     2780.8                        790.9  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      70332                       230079  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     130777                        -4355  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      99948                         4549  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      44989                         9919  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    16416.2                        131.5  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9864                         6576  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1701                         2418  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     2498.0                        410.1  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      62004                       -10254  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3403                         5156  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      50522                        -5995  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      82192                       -17040  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     200993                        11215  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      48297                        51127  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     880359                      -386596  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      14256                        40555  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      18668                        15647  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22136                         8971  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     949905                       -39262  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      567.7                       -200.9  
+
+
+$A2M
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1398                         2845  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9538                        -2584  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      66934                        -5493  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9966                         5052  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      49219                        -2631  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     255985                       -54911  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     328840                        10474  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     804729                        55332  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     385.39                        95.18  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     4476.3                       -197.9  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     671510                      -139890  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      445.8                       -796.5  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     4399.3                        494.9  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5790                         7306  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11427                        -5105  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     163303                       -52729  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     104324                       -35610  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      88663                        -1700  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      32241                         -799  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     117774                       -52902  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      657.8                       -284.0  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1548                         2363  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      892.9                       -356.6  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1200.04                        68.92  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      587.1                       -511.2  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     159403                        -7210  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     113194                        30503  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       4702                         4118  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    19107.6                       -756.5  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     381018                        -9048  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      29577                       -23995  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      34335                         3388  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      39243                        -7726  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3511                         1320  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1613                         1916  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1752                         1601  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     107286                       -30673  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1628                         1396  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      70981                       -28618  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3035                         -216  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61757                       -17469  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      17707                         4575  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24571                       -12971  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     336614                       -71188  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     111817                       -41094  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     184998                       -43084  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    23187.6                        247.1  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      52900                       -24376  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     120129                        -4089  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     836603                      -212518  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     187690                        19701  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     190909                       201792  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      58885                        53905  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      36036                       119308  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     204534                       -71943  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2522                         5459  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      58257                       -12951  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1407                        -1303  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11971                        -3674  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      596.9                        344.1  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     698857                      -178009  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      63558                        28559  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1206                        11679  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      278.6                       -311.0  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     135797                       370020  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     264555                      -387875  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1297262                      -691137  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      15956                        -6985  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2190                         4234  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      28191                        98940  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     106267                       -66516  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      26843                        12352  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     121356                       -21851  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5852                         8561  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      40198                        30891  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     217284                        -2490  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     109424                        18233  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      69131                        23846  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     960092                        38372  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      42763                        10482  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      98150                       -34699  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     269253                        -6450  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     5002.0                        360.9  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    10947.3                       -161.5  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      33603                        -5279  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     390295                      -184953  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61192                        -1741  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     509887                       518617  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       8862                        -1494  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     223122                       105101  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5204                         1504  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      23651                        -3039  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3265                         5398  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     267010                        92582  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2110                         2066  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     103760                         2615  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      23256                        21938  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1338060                      -215162  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      67390                       -20724  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1397.4                        977.9  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     243362                       -68958  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      10835                        -2202  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      38135                        11150  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     432077                      -309354  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      74113                       -40295  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      47225                        21041  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    3090.41                        89.62  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      98894                       -22824  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      82734                       -20160  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      40626                         3561  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      268.7                       -215.6  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      47566                        10786  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      52972                        -5267  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       5202                        -1727  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1448                         1162  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      10513                        -5488  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      735.3                        246.3  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3120                         5002  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      457.8                       -212.5  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     186251                       -32777  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1212                         1701  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24900                        31459  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22319                       -28572  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      922.6                       1411.4  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1264                         1180  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      19892                         8897  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1596                         1343  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9094                        -7395  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1058.2                        365.4  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     137656                        31607  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1441                         2359  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     4132.8                        431.3  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3711                         1861  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    1056638                      -461501  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      39304                        25258  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     162983                       -22020  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3025                         1059  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      18452                         9924  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      756.3                        898.7  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22773                       -31273  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     121890                        52151  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      14784                       -12722  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      37341                        25425  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     304201                        68093  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      27325                        11564  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2131                         1649  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1727                         5622  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      83949                       -57180  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     177457                       -75546  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      16249                         8749  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     764043                      -333823  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      52077                        -6311  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      70547                        -3858  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      929.2                        655.4  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       7028                        -6573  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      48401                       219301  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      19023                        -4918  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3910                         7709  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    8971059                      -180952  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1853                         2915  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      53418                         8465  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      98365                       -31100  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     159957                       -39034  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       8654                         3116  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      448.1                       -896.6  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    41457.5                       -280.9  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     197551                        -5316  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24528                        -2701  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3334                         4639  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       7632                       -10915  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     350380                       -85092  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       4355                         8724  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11263                         2990  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61191                       -26396  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1721.6                       -644.9  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     103476                       -31058  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      27279                        -8676  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      37685                       -12798  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     7112.1                       -218.6  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2939                        -1193  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      44315                       -18937  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      97302                       -16069  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     567250                       262039  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22909                         9513  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      12214                        -2601  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     146481                       -53994  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      24907                         5706  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     144964                       -21027  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      85223                       -21489  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      33632                        -4557  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1572.0                        497.9  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1205                        -1265  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1892                         3243  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     207851                        24133  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     594982                      -355789  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       2520                         1873  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     167305                       -49779  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1305.9                        784.2  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       6830                         1745  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       7218                        11385  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      87057                        13718  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      91968                        33736  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61252                        -8292  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      19001                       -15174  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     354444                       155819  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     141889                       -27982  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     139042                       -88510  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      15799                        -4625  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      21833                        -2180  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     128481                       -48177  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       8877                        -2625  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    5916210                        11287  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      26858                         5365  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      61733                         7932  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       4473                         1130  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      10767                        14672  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     152556                       -11465  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       6807                        -5512  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     102809                        27245  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     402004                       152858  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     2164.9                       -358.4  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      51343                       -25995  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      11177                         6300  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     202672                      -115847  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1896                         1481  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     1325.3                        604.2  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    60279.7                       -883.9  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      90045                       -36507  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     799307                       619132  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     2780.8                        790.9  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      70332                       230079  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     130777                        -4355  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      99948                         4549  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      44989                         9919  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                    16416.2                        131.5  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       9864                         6576  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       1701                         2418  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     2498.0                        410.1  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      62004                       -10254  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                       3403                         5156  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      50522                        -5995  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      82192                       -17040  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     200993                        11215  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      48297                        51127  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     880359                      -386596  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      14256                        40555  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      18668                        15647  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      22136                         8971  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                     949905                       -39262  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Eosinophils..x10.9.cells.L., data = IBS1)
+
+Coefficients:
+                (Intercept)  Eosinophils..x10.9.cells.L.  
+                      567.7                       -200.9  
+
+
