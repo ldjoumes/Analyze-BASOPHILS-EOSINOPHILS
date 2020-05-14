@@ -102,21 +102,26 @@ https://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html.
 
 ###  Recursive analysis for regression  - RNA Expression ##
 ## Access only the columns with RNA Expression
+```
 > names(IBS1)[37:286]
-
+```
 ##  Make a data frame of list type
+```
 > storage <- list()
+```
 
 ## # linear regression for each expressed gene vs parameter (Basophil/Eosinophil)
+```
 for(i in names(IBS1)[37:286]){
  > storage[[i]]  <- lm(get(i) ~ Basophils/Eosinophil..x10.9.cells.L., IBS1)
 }
-
+```
 ## ## Make a list of anova(lm()) results for  parameter
+```
 > storage3 <- list()
 
 for(i in names(IBS)[28:277]){
 > storage3[[i]]  <- anova(lm(get(i) ~ BasophilCount/EosinophilCount, IBS))
 } 
-
+```
  ##
