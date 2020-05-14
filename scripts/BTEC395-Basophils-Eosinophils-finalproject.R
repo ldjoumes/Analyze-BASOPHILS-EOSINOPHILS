@@ -119,7 +119,6 @@ VolcanoPlotData$Sig <- ifelse(VolcanoPlotData$`-log10(Pval)` > 1.3, "Sig", "Insi
 VolcanoPlotData2$Sig <- ifelse(VolcanoPlotData$`-log10(Pval)` > 1.3, "Sig", "Insig");
   
 ## Install necessary packages
-install.packages("ggplot2")
 library(ggplot2)
 # library(ggrepel)
 
