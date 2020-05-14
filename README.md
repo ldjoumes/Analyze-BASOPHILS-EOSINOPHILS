@@ -171,3 +171,8 @@ dev.off()
  |FPR2  |N-formyl peptide receptor 2
  |TARP2 |TCR Alternate Reading Frame Portein 2|
 
+``diff
+- text in red
++ text in green
+! text in orange
+# text in gray
