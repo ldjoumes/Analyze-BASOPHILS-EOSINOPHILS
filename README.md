@@ -1,4 +1,4 @@
-# <p align = "center"> Analyze-BASOPHILS-EOSINOPHILS
+# <p align = "center"> Analyze-BASOPHILS-EOSINOPHILS: PART 1
    <p align = "center"> Stephane Djoumessi
    
  ## OVERVIEW
@@ -85,3 +85,7 @@ Coefficients:
 ```
 ![Boxplot BMI vs Eosinophils](fig_output/Eosinophils_boxplot.png)
 
+
+# <p align = "center"> Analyze-BASOPHILS-EOSINOPHILS: PART 2
+  <p align = "center"> Additional Lines of Code
+     
