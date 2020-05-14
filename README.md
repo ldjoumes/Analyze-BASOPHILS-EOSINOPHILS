@@ -166,7 +166,7 @@ dev.off()
 
  | Gene | Name|
  |------|-----|
-<p style='color:red'>This is some red text.</p> | CCR3 | C-C-Chemokine Receptor 3|
+<p style='color:red'>| CCR3 | C-C-Chemokine Receptor 3|
  | CCR6 | C-C-Chemokine Receptor 6|
  |FPR2  |N-formyl peptide receptor 2
  |TARP2 |TCR Alternate Reading Frame Portein 2|
