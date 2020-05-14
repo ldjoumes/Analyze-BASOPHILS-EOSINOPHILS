@@ -29,7 +29,7 @@ ggplot(IBS1, aes(x=DROSHA, y=Basophils..x10.9.cells.L.)) +
                    
 
 ## Recursive analysis for regression  - RNA Expression ##
-View(IBS)
+View(IBS1)
 
 ## Access only the columns with RNA Expression
 names(IBS1)[37:286]
@@ -47,18 +47,25 @@ summary(storage$AGO2)$r.squared
 summary(storage$AGO2)$coefficients[,4]
 
 ## output the results of the 250 genes in data_output folder
-sink('../data_output/Basophils_storage.txt', append = TRUE)
+sink('../data_output/Basophils-EosinophilsStorage.txt', append = TRUE)
 print(storage)
 sink()
 
 ## Access only the columns with RNA Expression (subsetting)
-names(IBS)[28:277]
+names(IBS1)[28:277]
 
 ## Make a list of anova(lm()) results for BasophilCount parameter
 storage <- list()
 
-for(i in names(IBS)[28:277]){
-  storage[[i]]  <- anova(lm(get(i) ~ BasophilCount, IBS))
+for(i in names(IBS1)[28:277]){
+  storage[[i]]  <- anova(lm(get(i) ~ BasophilCount, IBS1))
+}
+
+## Make a list of anova(lm()) results for EosinophilCount parameter
+storage <- list()
+
+for(i in names(IBS1)[28:277]){
+  storage[[i]]  <- anova(lm(get(i) ~ EosinophilCount, IBS1))
 }
 
 ## Extract the p-values into a new list
@@ -73,7 +80,7 @@ DFpvalues <- data.frame(matrix(unlist(pVals), nrow=length(pVals), byrow=T))
 
 ## Combine the results dataframes and write column labels
 VolcanoPlotData <- cbind(FCdata, DFpvalues)
-names(VolcanoPlotData)[1] <- paste("log2(FC)")
+names(VolcanoPlotData)[1] <- paste("log2(SlopeDiff)")
 names(VolcanoPlotData)[2] <- paste("-log10(Pval)")
 
 ## Add a column to evaluate significance
@@ -84,14 +91,25 @@ install.packages("ggplot2")
 library(ggplot2)
 # library(ggrepel)
 
-## output the result of the volcanoplot into fig_output data folder
+## output the result of the BasophilCount volcanoplot into fig_output data folder
 png("../fig_output/BasophilCountplot.png")
-BasophilCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(FC)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
+BasophilCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
   geom_point(aes(color = Sig)) +
   scale_color_manual(values = c("grey", "red")) +
   theme_bw(base_size = 12) + theme(legend.position = "bottom") +
-  geom_text(aes(x = `log2(FC)`,y = `-log10(Pval)`, fontface = 1, size=3,  label=row.names(VolcanoPlotData)))
+  geom_text(aes(x = `log2(SlopeDiff)`,y = `-log10(Pval)`, fontface = 1, size=3,  label=row.names(VolcanoPlotData)))
 
 print(BasophilCountplot + ggtitle("Gene Expression vs. BasophilCount Level"))
+dev.off()
+
+## output the result of the EosinophilCount volcanoplot into fig_output data folder
+png("../fig_output/EosinophilCountCountplot.png")
+EosinophilCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
+  geom_point(aes(color = Sig)) +
+  scale_color_manual(values = c("grey", "red")) +
+  theme_bw(base_size = 12) + theme(legend.position = "bottom") +
+  geom_text(aes(x = `log2(SlopeDiff)`,y = `-log10(Pval)`, fontface = 1, size=3,  label=row.names(VolcanoPlotData)))
+
+print(BasophilCountplot + ggtitle("Gene Expression vs. EosinophilCount Level"))
 dev.off()
 
