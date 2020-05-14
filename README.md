@@ -100,28 +100,60 @@ http://www.learnbymarketing.com/tutorials/explaining-the-lm-summary-in-r/.
 https://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html.
 
 
-###  Recursive analysis for regression  - RNA Expression ##
+### Recursive analysis for regression  - RNA Expression ##
 ## Access only the columns with RNA Expression
 ```
 > names(IBS1)[37:286]
 ```
-##  Make a data frame of list type
+## Make a data frame of list type
 ```
 > storage <- list()
 ```
 
-## # linear regression for each expressed gene vs parameter (Basophil/Eosinophil)
+## linear regression for each expressed gene vs parameter (Basophil/Eosinophil)
 ```
 for(i in names(IBS1)[37:286]){
  > storage[[i]]  <- lm(get(i) ~ Basophils/Eosinophil..x10.9.cells.L., IBS1)
 }
 ```
-## ## Make a list of anova(lm()) results for  parameter
+## Make a list of anova(lm()) results for  parameter
 ```
 > storage3 <- list()
 
 for(i in names(IBS)[28:277]){
 > storage3[[i]]  <- anova(lm(get(i) ~ BasophilCount/EosinophilCount, IBS))
-} 
-```
- ##
+}
+ ```
+
+## output the result of the BasophilCount volcanoplot into fig_output data folder
+ ```
+png("../fig_output/BasophilCountplot.png")
+BasophilCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
+  geom_point(aes(color = Sig)) +
+  scale_color_manual(values = c("black", "red")) +
+  theme_bw(base_size = 12) + theme(legend.position = "bottom") +
+  geom_text(aes(x = `log2(SlopeDiff)`,y = `-log10(Pval)`, fontface = 1, size=3,  label=row.names(VolcanoPlotData)))
+
+print(BasophilCountplot + ggtitle("Gene Expression vs. BasophilCount Level"))
+dev.off()
+ ```
+ ![VolcanoPlot vs Basophils](fig_output/BasophilCountplot.png)
+#### output the result of the EosinophilCount volcanoplot into fig_output data folder
+ ```
+png("../fig_output/EosinophilCountplot.png")
+EosinophilCountplot <- ggplot(VolcanoPlotData2, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData2), color=Sig)) +
+  geom_point(aes(color = Sig)) +
+  scale_color_manual(values = c("black", "red")) +
+  theme_bw(base_size = 12) + theme(legend.position = "bottom") +
+  geom_text(aes(x = `log2(SlopeDiff)`,y = `-log10(Pval)`, fontface = 1, size=3,  label=row.names(VolcanoPlotData2)))
+
+print(EosinophilCountplot + ggtitle("Gene Expression vs. EosinophilCount Level"))
+dev.off()
+ ```
+![VolcanoPlot vs Eosinophils](fig_output/EosinophilCountplot.png)
+
+
+
+
+
+
