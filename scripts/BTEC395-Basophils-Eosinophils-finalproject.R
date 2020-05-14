@@ -111,7 +111,7 @@ names(VolcanoPlotData)[2] <- paste("-log10(Pval)")
 ## Combine the results dataframes and write column labels: EsoinophilCount
 VolcanoPlotData2 <- cbind(FCdata2, DFpvalues2)
 names(VolcanoPlotData2)[1] <- paste("log2(SlopeDiff)")
-names(VolcanoPlotData2)[2] <- paste("-log10(Pval2)")
+names(VolcanoPlotData2)[2] <- paste("-log10(Pval)")
 
 
 ## Add a column to evaluate significance
