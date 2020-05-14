@@ -29,8 +29,6 @@ ggplot(IBS1, aes(x=DROSHA, y=Basophils..x10.9.cells.L.)) +
                    
 
 ## Recursive analysis for regression  - RNA Expression ##
-View(IBS1)
-
 ## Access only the columns with RNA Expression
 names(IBS1)[37:286]
 
