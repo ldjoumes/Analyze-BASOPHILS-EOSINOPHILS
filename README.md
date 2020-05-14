@@ -146,7 +146,7 @@ dev.off()
   |Cxcl10| C-X-C Motif Chemokine 10|
   | FPR2 | N-formyl peptide receptor 2|
   |CCNG2 | Cyclin Glycin 2|
-  |TARP2 |TCR Alternate Reading Frame Portein 2|
+  |TARP2 |TCR Alternate Reading Frame Protein 2|
 
 ###  EosinophilCount volcanoplot
  ```
@@ -169,6 +169,6 @@ dev.off()
  | CCR3 | C-C-Chemokine Receptor 3|
  | CCR6 | C-C-Chemokine Receptor 6|
  |FPR2  |N-formyl peptide receptor 2
- |TARP2 |TCR Alternate Reading Frame Portein 2|
+ |TARP2 |TCR Alternate Reading Frame Protein 2|
 
 
