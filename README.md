@@ -100,23 +100,23 @@ http://www.learnbymarketing.com/tutorials/explaining-the-lm-summary-in-r/.
 https://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html.
 
 
-### Recursive analysis for regression  - RNA Expression ##
-## Access only the columns with RNA Expression
+## Recursive analysis for regression  - RNA Expression ##
+### Access only the columns with RNA Expression
 ```
 > names(IBS1)[37:286]
 ```
-## Make a data frame of list type
+### Make a data frame of list type
 ```
 > storage <- list()
 ```
 
-## linear regression for each expressed gene vs parameter (Basophil/Eosinophil)
+### linear regression for each expressed gene vs parameter (Basophil/Eosinophil)
 ```
 for(i in names(IBS1)[37:286]){
  > storage[[i]]  <- lm(get(i) ~ Basophils/Eosinophil..x10.9.cells.L., IBS1)
 }
 ```
-## Make a list of anova(lm()) results for parameter (Basophil/Eosinophil)
+### Make a list of anova(lm()) results for parameter (Basophil/Eosinophil)
 ```
 > storage3 <- list()
 
@@ -125,7 +125,7 @@ for(i in names(IBS)[28:277]){
 }
  ```
 
-## R BasophilCount volcanoplot 
+### BasophilCount volcanoplot 
  ```
 png("../fig_output/BasophilCountplot.png")
 BasophilCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
@@ -139,7 +139,7 @@ dev.off()
  ```
  ![VolcanoPlot vs Basophils](fig_output/BasophilCountplot.png)
  
- ## Gene Significance for BasophilCount
+ ### Gene Significance for BasophilCount
  
   | Gene | Name|
   |------|-----|
@@ -148,7 +148,7 @@ dev.off()
   |CCNG2 | Cyclin Glycin 2|
   |TARP2 |TCR Alternate Reading Frame Portein 2|
 
-##  EosinophilCount volcanoplot
+###  EosinophilCount volcanoplot
  ```
 png("../fig_output/EosinophilCountplot.png")
 EosinophilCountplot <- ggplot(VolcanoPlotData2, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData2), color=Sig)) +
@@ -162,7 +162,7 @@ dev.off()
  ```
 ![VolcanoPlot vs Eosinophils](fig_output/EosinophilCountplot.png)
 
-## Gene Significance for EosinophilCount
+### Gene Significance for EosinophilCount
 
  | Gene | Name|
  |------|-----|
