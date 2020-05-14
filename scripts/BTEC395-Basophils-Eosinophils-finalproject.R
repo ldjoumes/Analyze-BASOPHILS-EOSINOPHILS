@@ -62,6 +62,7 @@ sink()
 
 ## Read in the table of fold changes (FC.csv)
 FCdata <- read.csv("../data/FC.csv", row.names = 1, header = TRUE)
+FCdata2 <- read.csv("../data/FC.2.csv", row.names = 1, header = TRUE)
 
 ## Read in the table of expression data
 IBS <- read.csv("../data/GXdata.csv", header = TRUE)
@@ -108,7 +109,7 @@ names(VolcanoPlotData)[1] <- paste("log2(SlopeDiff)")
 names(VolcanoPlotData)[2] <- paste("-log10(Pval)")
 
 ## Combine the results dataframes and write column labels: EsoinophilCount
-VolcanoPlotData2 <- cbind(FCdata, DFpvalues2)
+VolcanoPlotData2 <- cbind(FCdata2, DFpvalues2)
 names(VolcanoPlotData2)[1] <- paste("log2(SlopeDiff)")
 names(VolcanoPlotData2)[2] <- paste("-log10(Pval2)")
 
