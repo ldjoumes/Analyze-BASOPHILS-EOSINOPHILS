@@ -87,7 +87,7 @@ Coefficients:
 
 # <p align = "center"> Analyze-BASOPHILS-EOSINOPHILS: PART 2 
    
-#  <p align = "center"> Additional Lines of Code
+#  <p align = "center"> Data Frames and VolcanoPlots (Additional Lines of Codes
  
    <p style="text-indent"> (BTEC395-Basophils-Eosinophils-finalproject.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions and anova of each gene expressed in the .csv file vs. Basophils or vs. Eosinophils.
    
