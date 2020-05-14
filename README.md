@@ -142,6 +142,7 @@ dev.off()
  ## Gene Significance for BasophilCount
  
   | Gene | Name|
+  |------|-----|
   |Cxcl10| C-X-C Motif Chemokine 10|
   | FPR2 | N-formyl peptide receptor 2|
   |CCNG2 | Cyclin Glycin 2|
