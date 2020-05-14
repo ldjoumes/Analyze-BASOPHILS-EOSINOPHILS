@@ -87,7 +87,7 @@ Coefficients:
 
 # <p align = "center"> Analyze-BASOPHILS-EOSINOPHILS: PART 2 
    
-#  <p align = "center"> Data Frames and VolcanoPlots (Additional Lines of Codes
+##  <p align = "center"> Data Frames and VolcanoPlots (Additional Lines of Codes)
  
    <p style="text-indent"> (BTEC395-Basophils-Eosinophils-finalproject.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions and anova of each gene expressed in the .csv file vs. Basophils or vs. Eosinophils.
    
@@ -125,7 +125,7 @@ for(i in names(IBS)[28:277]){
 }
  ```
 
-## Result of the BasophilCount volcanoplot into fig_output data folder
+## R BasophilCount volcanoplot 
  ```
 png("../fig_output/BasophilCountplot.png")
 BasophilCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
@@ -148,7 +148,7 @@ dev.off()
   |CCNG2 | Cyclin Glycin 2|
   |TARP2 |TCR Alternate Reading Frame Portein 2|
 
-## Result of the EosinophilCount volcanoplot into fig_output data folder
+##  EosinophilCount volcanoplot
  ```
 png("../fig_output/EosinophilCountplot.png")
 EosinophilCountplot <- ggplot(VolcanoPlotData2, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData2), color=Sig)) +
