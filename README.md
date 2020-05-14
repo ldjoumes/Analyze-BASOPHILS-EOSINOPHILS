@@ -89,9 +89,9 @@ Coefficients:
    
 #  <p align = "center"> Additional Lines of Code
  
-   <p style="text-indent"> (BTEC395-Basophil-Eosinophil-finalproject.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions and anova of each gene expressed in the .csv file vs. Basophils or vs. Eosinophils.
+   <p style="text-indent"> (BTEC395-Basophils-Eosinophils-finalproject.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions and anova of each gene expressed in the .csv file vs. Basophils or vs. Eosinophils.
    
-   In addition, (Basophil-Eosinophil-finalproject.R) will  allow to perform a recursive analysis for regression which creates a date frame list to store all the genes necessary for the analysis. Transformations such as log2 FC and -log10 will be combined and exported to create a volcanoplot which computes the signfiance of each gene is relevance to the analysis being perfomred.
+   In addition, (BTEC395-Basophil-Eosinophil-finalproject.R) will  allow to perform a recursive analysis for regression which creates a date frame list to store all the genes necessary for the analysis. Transformations such as log2 FC and -log10 will be combined and exported to create a volcanoplot which computes the signfiance of each gene and relevance to the analysis being perfomred.
    
    <p style="text-indent: 160px"> The lines of codes used in this analysis were downloaded from:   
 https://stackoverflow.com/questions/42464767/how-to-run-lm-regression-for-every-column-in-r.
@@ -152,7 +152,24 @@ dev.off()
  ```
 ![VolcanoPlot vs Eosinophils](fig_output/EosinophilCountplot.png)
 
+## Gene Significance for BasophilCount
+  | Gene | Name|
+  | -----| --- |
+  |Cxcl10| C-X-C Motif Chemokine 10|
+  |------|-----|
+  | FPR2 | N-formyl peptide receptor 2|
+  |------|-----|
+  |CCNG2 | Cyclin Glycin 2|
+  |------|-----|
+  |TARP2 |TCR Alternate Reading Frame Portein 2|
 
+
+
+## Gene Significance for BasophilCount
+
+ | Gene-Symbol | Name|
+  | --- | --- |
+  |  | 0.5737 |
 
 
 
