@@ -89,7 +89,7 @@ Coefficients:
    
 ##  <p align = "center"> Data Frames and VolcanoPlots (Additional Lines of Codes)
  
-   <p style="text-indent"> (BTEC395-Basophils-Eosinophils-finalproject.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions and anova of each gene expressed in the .csv file vs. Basophils or vs. Eosinophils.
+  (BTEC395-Basophils-Eosinophils-finalproject.R) will allow you to load a comma-delimited .csv with various datapoints, perform single regressions and anova of each gene expressed in the .csv file vs. Basophils or vs. Eosinophils.
    
    In addition, (BTEC395-Basophil-Eosinophil-finalproject.R) will  allow to perform a recursive analysis for regression which creates a date frame list to store all the genes necessary for the analysis. Transformations such as log2 FC and -log10 will be combined and exported to create a volcanoplot which computes the signfiance of each gene and relevance to the analysis being perfomred.
    
