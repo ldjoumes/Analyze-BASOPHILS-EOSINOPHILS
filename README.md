@@ -93,8 +93,7 @@ Coefficients:
    
    In addition, (Basophil-Eosinophil-finalproject.R) will  allow to perform a recursive analysis for regression which creates a date frame list to store all the genes necessary for the analysis. Transformations such as log2 FC and -log10 will be combied and exported to create a volcanoplot which computes the signfiance of each gene is relevance to the analysis being perfomred.
    
-   <p style="text-indent: 160px"> The lines of codes used in this analysis were downloaded from:
-   
+   <p style="text-indent: 160px"> The lines of codes used in this analysis were downloaded from:   
 https://stackoverflow.com/questions/42464767/how-to-run-lm-regression-for-every-column-in-r.
 https://stackoverflow.com/questions/44170937/performing-lm-and-segmented-on-multiple-columns-in-r.
 http://www.learnbymarketing.com/tutorials/explaining-the-lm-summary-in-r/.
