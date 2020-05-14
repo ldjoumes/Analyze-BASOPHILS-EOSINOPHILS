@@ -148,7 +148,7 @@ dev.off()
   |CCNG2 | Cyclin Glycin 2|
   |TARP2 |TCR Alternate Reading Frame Portein 2|
 
-#### Result of the EosinophilCount volcanoplot into fig_output data folder
+## Result of the EosinophilCount volcanoplot into fig_output data folder
  ```
 png("../fig_output/EosinophilCountplot.png")
 EosinophilCountplot <- ggplot(VolcanoPlotData2, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData2), color=Sig)) +
@@ -163,10 +163,11 @@ dev.off()
 ![VolcanoPlot vs Eosinophils](fig_output/EosinophilCountplot.png)
 
 ## Gene Significance for EosinophilCount
- 
+```
  | Gene | Name|
+ |------|-----|
  | CCR3 | C-C-Chemokine Receptor 3|
  | CCR6 | C-C-Chemokine Receptor 6|
  |FPR2  |N-formyl peptide receptor 2
  |TARP2 |TCR Alternate Reading Frame Portein 2|
-
+```
