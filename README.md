@@ -140,13 +140,13 @@ dev.off()
  ![VolcanoPlot vs Basophils](fig_output/BasophilCountplot.png)
  
  ## Gene Significance for BasophilCount
- ```
+ 
   | Gene | Name|
   |Cxcl10| C-X-C Motif Chemokine 10|
   | FPR2 | N-formyl peptide receptor 2|
   |CCNG2 | Cyclin Glycin 2|
   |TARP2 |TCR Alternate Reading Frame Portein 2|
-```
+
 #### Result of the EosinophilCount volcanoplot into fig_output data folder
  ```
 png("../fig_output/EosinophilCountplot.png")
@@ -162,10 +162,10 @@ dev.off()
 ![VolcanoPlot vs Eosinophils](fig_output/EosinophilCountplot.png)
 
 ## Gene Significance for EosinophilCount
-  ```
+ 
  | Gene | Name|
  | CCR3 | C-C-Chemokine Receptor 3|
  | CCR6 | C-C-Chemokine Receptor 6|
  |FPR2  |N-formyl peptide receptor 2
  |TARP2 |TCR Alternate Reading Frame Portein 2|
-```
+
