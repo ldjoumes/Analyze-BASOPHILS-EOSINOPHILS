@@ -110,6 +110,6 @@ EosinophilCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(SlopeDiff)`, y = `-
   theme_bw(base_size = 12) + theme(legend.position = "bottom") +
   geom_text(aes(x = `log2(SlopeDiff)`,y = `-log10(Pval)`, fontface = 1, size=3,  label=row.names(VolcanoPlotData)))
 
-print(BasophilCountplot + ggtitle("Gene Expression vs. EosinophilCount Level"))
+print(EosinophilCountplot + ggtitle("Gene Expression vs. EosinophilCount Level"))
 dev.off()
 
