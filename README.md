@@ -116,7 +116,7 @@ for(i in names(IBS1)[37:286]){
  > storage[[i]]  <- lm(get(i) ~ Basophils/Eosinophil..x10.9.cells.L., IBS1)
 }
 ```
-## Make a list of anova(lm()) results for  parameter
+## Make a list of anova(lm()) results for parameter (Basophil/Eosinophil)
 ```
 > storage3 <- list()
 
@@ -125,7 +125,7 @@ for(i in names(IBS)[28:277]){
 }
  ```
 
-## output the result of the BasophilCount volcanoplot into fig_output data folder
+## Result of the BasophilCount volcanoplot into fig_output data folder
  ```
 png("../fig_output/BasophilCountplot.png")
 BasophilCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
@@ -138,7 +138,7 @@ print(BasophilCountplot + ggtitle("Gene Expression vs. BasophilCount Level"))
 dev.off()
  ```
  ![VolcanoPlot vs Basophils](fig_output/BasophilCountplot.png)
-#### output the result of the EosinophilCount volcanoplot into fig_output data folder
+#### Result of the EosinophilCount volcanoplot into fig_output data folder
  ```
 png("../fig_output/EosinophilCountplot.png")
 EosinophilCountplot <- ggplot(VolcanoPlotData2, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData2), color=Sig)) +
