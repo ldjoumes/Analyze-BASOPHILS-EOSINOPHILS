@@ -126,10 +126,7 @@ for(i in names(IBS)[28:277]){
  ```
 
 ### BasophilCount volcanoplot 
- ```
-png("../fig_output/BasophilCountplot.png")
 
- ```
  ![VolcanoPlot vs Basophils](fig_output/BasophilCountplot.png)
  
  ### Gene Significance for BasophilCount
@@ -142,10 +139,7 @@ png("../fig_output/BasophilCountplot.png")
   |TARP2 |TCR Alternate Reading Frame Protein 2|
 
 ###  EosinophilCount volcanoplot
- ```
-png("../fig_output/EosinophilCountplot.png")
 
- ```
 ![VolcanoPlot vs Eosinophils](fig_output/EosinophilCountplot.png)
 
 ### Gene Significance for EosinophilCount
