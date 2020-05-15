@@ -150,5 +150,21 @@ for(i in names(IBS)[28:277]){
  | CCR6 | C-C-Chemokine Receptor 6|
  |FPR2  |N-formyl peptide receptor 2
  |TARP2 |TCR Alternate Reading Frame Protein 2|
+ 
+ ###           Gene Ontology: Concept
+ Gene Ontology is a set of concepts and categories in a subject area or domain that shows their properties and the relations between them.
+ 
+ The following analysis can be perfomred on teh website: http://www.pantherdb.org/tools/compareToRefList.jsp
+ 
+ #### gene Ontology of BasophilCount
+ This analysis is going to compute all the significant genes in BasophilCount observed in the VolcanoPlot. 
+ + The result of the gene ontology of  CCR3, CCR6, FPR2, TARP2  shows the Iflammation mediated by chemokine and cytokine signaling pathway which directs the migration of white blood cells to infected or damaged tissues. Both chemokines and cytokines use chemical signals to induce changes in other cells, but are specialized to cause cell movement.
+ 
+|PANTHER Pathways|Homo Sapiens REF#|Client Text Input (CTI) #|CTI Expected|CTI Fold Enrichment|CTI +/-|CTI Raw P value|
+|Inflammation mediated by chemokine and cytokine signaling pathway| (P00031)|	255|	2	|.04	|+	|54.51	|4.50E-04|
+|----------------|-|-|--------|---------------|---|-----------|
+|Unclassified (UNCLASSIFIED)	|18243	|1|	2.62|	-|	.38|	4.31E-02|
 
-
+  
+  
+ 
