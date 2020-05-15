@@ -128,14 +128,7 @@ for(i in names(IBS)[28:277]){
 ### BasophilCount volcanoplot 
  ```
 png("../fig_output/BasophilCountplot.png")
-BasophilCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
-  geom_point(aes(color = Sig)) +
-  scale_color_manual(values = c("black", "red")) +
-  theme_bw(base_size = 12) + theme(legend.position = "bottom") +
-  geom_text(aes(x = `log2(SlopeDiff)`,y = `-log10(Pval)`, fontface = 1, size=3,  label=row.names(VolcanoPlotData)))
 
-print(BasophilCountplot + ggtitle("Gene Expression vs. BasophilCount Level"))
-dev.off()
  ```
  ![VolcanoPlot vs Basophils](fig_output/BasophilCountplot.png)
  
@@ -151,14 +144,7 @@ dev.off()
 ###  EosinophilCount volcanoplot
  ```
 png("../fig_output/EosinophilCountplot.png")
-EosinophilCountplot <- ggplot(VolcanoPlotData2, aes(x = `log2(SlopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData2), color=Sig)) +
-  geom_point(aes(color = Sig)) +
-  scale_color_manual(values = c("black", "red")) +
-  theme_bw(base_size = 12) + theme(legend.position = "bottom") +
-  geom_text(aes(x = `log2(SlopeDiff)`,y = `-log10(Pval)`, fontface = 1, size=3,  label=row.names(VolcanoPlotData2)))
 
-print(EosinophilCountplot + ggtitle("Gene Expression vs. EosinophilCount Level"))
-dev.off()
  ```
 ![VolcanoPlot vs Eosinophils](fig_output/EosinophilCountplot.png)
 
