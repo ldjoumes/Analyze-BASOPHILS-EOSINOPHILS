@@ -154,7 +154,7 @@ for(i in names(IBS)[28:277]){
  ###           Gene Ontology: Concept
  Gene Ontology is a set of concepts and categories in a subject area or domain that shows their properties and the relations between them.
  
- The following analysis can be perfomred on teh website: http://www.pantherdb.org/tools/compareToRefList.jsp
+ The following analysis can be performed on the website: http://www.pantherdb.org/tools/compareToRefList.jsp
  
  
  #### Gene Ontology of BasophilCount
