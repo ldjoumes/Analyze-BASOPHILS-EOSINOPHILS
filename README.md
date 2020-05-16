@@ -174,6 +174,6 @@ for(i in names(IBS)[28:277]){
  
   |PANTHER Pathways|Homo Sapiens REF#|Client Text Input (CTI) #|CTI Expected|CTI Fold Enrichment|CTI +/-|CTI Raw P value|
 |----------------|-|-|--------|---------------|---|-----------|
- |Inflammation mediated by chemokine and cytokine signaling pathway (P00031)|	255|	4	.05|	+|	81.77|	2.32E-08	3.81E-06|
+ |Inflammation mediated by chemokine and cytokine signaling pathway| (P00031)|	255|	4	.05|	+|	81.77|	2.32E-08	3.81E-06|
 
  
