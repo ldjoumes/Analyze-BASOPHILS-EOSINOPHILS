@@ -1,6 +1,7 @@
 ## BTEC395 S2020 Stephane Djoumessi
 
 ## install.packages("ggplot2")
+install.packages("ggplot2")
 library(ggplot2)
 
 ## Set working directory to setwd("C:/Users/loicd/Desktop/Analyze-BASOPHILS-EOSINOPHILS-master/scripts")
