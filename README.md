@@ -156,27 +156,24 @@ for(i in names(IBS)[28:277]){
  
  The following analysis can be perfomred on teh website: http://www.pantherdb.org/tools/compareToRefList.jsp
  
- #### gene Ontology of EosinophilCount
- This analysis is going to compute all the significant genes in EosinophilCount observed in the VolcanoPlot. 
- + The result of the gene ontology of Cxcl10, FPR2, CCNG2, TARP2 shows the Iflammation mediated by chemokine and cytokine signaling pathway which directs the migration of white blood cells to infected or damaged tissues. Both chemokines and cytokines use chemical signals to induce changes in other cells, but are specialized to cause cell movement.
  
- 
- 
- #### gene Ontology of EosinophilCount
+ #### gene Ontology of BasophilCount
  This analysis is going to compute all the significant genes in BasophilCount observed in the VolcanoPlot. 
- + The result of the gene ontology of  CCR3, CCR6, FPR2, TARP2  shows the Iflammation mediated by chemokine and cytokine signaling pathway which directs the migration of white blood cells to infected or damaged tissues. Both chemokines and cytokines use chemical signals to induce changes in other cells, but are specialized to cause cell movement.
  
- |PANTHER Pathways|Homo Sapiens REF#|Client Text Input (CTI) #|CTI Expected|CTI Fold Enrichment|CTI +/-|CTI Raw P value|
-|----------------|-|-|--------|---------------|---|-----------|
- |Inflammation mediated by chemokine and cytokine signaling pathway (P00031)|	255|	4	.05|	+|	81.77|	2.32E-08	3.81E-06|
-
-
+ + The result of the gene ontology of Cxcl10, FPR2, CCNG2, TARP2   shows the Iflammation mediated by chemokine and cytokine signaling pathway which directs the migration of white blood cells to infected or damaged tissues. Both chemokines and cytokines use chemical signals to induce changes in other cells, but are specialized to cause cell movement.
+ 
 |PANTHER Pathways|Homo Sapiens REF#|Client Text Input (CTI) #|CTI Expected|CTI Fold Enrichment|CTI +/-|CTI Raw P value|
 |----------------|-|-|--------|---------------|---|-----------|
 |Inflammation mediated by chemokine and cytokine signaling pathway| (P00031)|	255|	2	.04	|+	|54.51	|4.50E-04|
 
+ 
+ #### gene Ontology of EosinophilCount
+ This analysis is going to compute all the significant genes in EosinophilCount observed in the VolcanoPlot. 
+ 
+ + The result of the gene ontology of  shows CCR3, CCR6, FPR2, TARP2 shows the Iflammation mediated by chemokine and cytokine signaling pathway which directs the migration of white blood cells to infected or damaged tissues. Both chemokines and cytokines use chemical signals to induce changes in other cells, but are specialized to cause cell movement.
+ 
+  |PANTHER Pathways|Homo Sapiens REF#|Client Text Input (CTI) #|CTI Expected|CTI Fold Enrichment|CTI +/-|CTI Raw P value|
+|----------------|-|-|--------|---------------|---|-----------|
+ |Inflammation mediated by chemokine and cytokine signaling pathway (P00031)|	255|	4	.05|	+|	81.77|	2.32E-08	3.81E-06|
 
-
-  
-  
  
