@@ -161,7 +161,7 @@ for(i in names(IBS)[28:277]){
  + The result of the gene ontology of  CCR3, CCR6, FPR2, TARP2  shows the Iflammation mediated by chemokine and cytokine signaling pathway which directs the migration of white blood cells to infected or damaged tissues. Both chemokines and cytokines use chemical signals to induce changes in other cells, but are specialized to cause cell movement.
  
 |PANTHER Pathways|Homo Sapiens REF#|Client Text Input (CTI) #|CTI Expected|CTI Fold Enrichment|CTI +/-|CTI Raw P value|
-|----------------|-|-|--------|---------------|---|-----------|-------------------------------------------------------|
+|----------------|-|-|--------|---------------|---|-----------|
 |Inflammation mediated by chemokine and cytokine signaling pathway| (P00031)|	255|	2	.04	|+	|54.51	|4.50E-04|
 
 
